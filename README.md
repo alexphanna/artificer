@@ -4,5 +4,5 @@ Simple shell script to quickly gather the newest Fork Artifacts of a repository 
 Created to be used with repositories such as [dayanch96/YTLite](https://github.com/dayanch96/YTLite) and [SoCuul/SCInsta](https://github.com/SoCuul/SCInsta)
 
 ## Features
-- [ ] Optionally use GitHub personal access token
-- [ ] Verify file integrity using digest
+- [x] Optionally use GitHub personal access token
+- [ ] Check multiple pages of forks (100 per page)
